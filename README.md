@@ -11,7 +11,9 @@ Parameters Used:
 - Relative Volume: Over 2
 - Current Volume: Over 100K
 - Change: Up
-Data Collection Approach:
+
+
+## Data Collection Approach:
 - Manual collection was performed using manual exports that fetched data every 15 minutes from 7:00 am to 10:00 am EST each business day.
 - Data was manually collected and timestamped to reflect real-time stock movements.
 - Data was saved onto personal Google Drive and converted to pandas dataframe for analysis
