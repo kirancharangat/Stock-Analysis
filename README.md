@@ -6,6 +6,7 @@ This project focuses on predicting stock price changes using various machine lea
 
 ## Data Collection
 Source: Stock data was collected from Finviz
+
 Parameters Used:
 - Market Cap: Over 0.01
 - Relative Volume: Over 2
