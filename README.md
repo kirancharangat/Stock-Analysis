@@ -16,5 +16,6 @@ Data Collection Approach:
 - Data was manually collected and timestamped to reflect real-time stock movements.
 - Data was saved onto personal Google Drive and converted to pandas dataframe for analysis
 
+
 ## Conclusion
 This project demonstrates a comprehensive approach to stock price prediction by leveraging machine learning models and feature engineering techniques. The integration of time-series data with LSTM models, combined with the analysis of technical indicators and basic models, provides a robust framework for forecasting stock movements and assessing feature relevance.
